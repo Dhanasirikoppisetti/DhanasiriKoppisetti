@@ -27,7 +27,7 @@
 
 ## 🌟 Projects
 - **Dream Vacation Planner** – A responsive single-page website built with HTML & CSS.  
-- **Tech 360** – A tech news & portfolio site using HTML, CSS & JavaScript with interactive navigation and DOM features.  
+- **Tech 360** – A tech news & portfolio site using HTML, CSS & JavaScript with interactive navigation and DOM features.
 
 ---
 
