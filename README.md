@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Skills
-- **Languages:** Java, C, C++, SQL, Python, HTML, CSS, JavaScript  
+- **Languages:** Java, C, C++, SQL, Python, HTML, CSS, JavaScript,ML 
 - **Core:** Data Structures & Algorithms, DBMS  
 - **Other:** Debugging, Problem-Solving, Time Management  
 
